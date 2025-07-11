@@ -18,5 +18,7 @@ echo "----------------------------------"
 echo "System Information:"
 uname -a
 
+echo "This automatically build step"
+
 # Exit with success status (0)
 exit 0
