@@ -15,5 +15,8 @@ sleep 2  # Simulate work being done
 echo "Build Completed Successfully!"
 echo "----------------------------------"
 
+echo "System Information:"
+uname -a
+
 # Exit with success status (0)
 exit 0
